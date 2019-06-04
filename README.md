@@ -1,10 +1,14 @@
 # MyDreamApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.9.
+    * Angular.js
+    * NPM
+    * Bootstrap
+    * VSCODE
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+inicialize o `ng serve`. Navegue na `http://localhost:4200/`para ver o projeto.
 
 ## Code scaffolding
 
